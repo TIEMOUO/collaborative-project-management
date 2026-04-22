@@ -1,0 +1,12 @@
+.layout {
+  display: flex;
+  height: 100vh;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
